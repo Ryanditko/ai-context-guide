@@ -1,6 +1,6 @@
 # AI Context Guide
 
-![AI Context Guide Banner](assets/banner.png)
+![AI Context Guide Banner](guides/assets/banner.png)
 
 A repository of guides and conventions to use as context in AI chats (Claude, ChatGPT, Cursor, etc.).
 
