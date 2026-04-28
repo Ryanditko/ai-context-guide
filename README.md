@@ -127,4 +127,4 @@ Feel free to add new guides or improve existing ones following the established p
 
 ## License
 
-MIT
+[MIT](LICENSE)
